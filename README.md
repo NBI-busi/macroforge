@@ -5,6 +5,7 @@ A toolbox to automate retrieval, analysis, and visualization of regional fundame
 ---
 
 ## Planned directory structure (draft) / 今後想定しているディレクトリ構成（仮）
+※現状、functionsフォルダ内の***.pyを積み上げています。
 
 macroforge/
 ├─ README.md
